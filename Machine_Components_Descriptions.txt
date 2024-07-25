@@ -1,0 +1,23 @@
+# Machine Components and Descriptions
+
+## Component 1: Gearbox
+- **Description:** The gearbox is used to increase torque while reducing speed. It consists of a series of gears.
+- **Material:** Steel
+- **Specifications:** 
+  - Gear Ratio: 5:1
+  - Weight: 25 kg
+
+## Component 2: Conveyor Belt
+- **Description:** A conveyor belt is used for transporting materials from one location to another.
+- **Material:** Rubber
+- **Specifications:** 
+  - Length: 10 m
+  - Width: 0.5 m
+
+## Component 3: Motor
+- **Description:** An electric motor converts electrical energy into mechanical motion.
+- **Material:** Copper, Steel
+- **Specifications:** 
+  - Power: 1.5 kW
+  - Voltage: 230V
+
